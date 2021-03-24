@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @serikuly
+- 👀 I’m interested in web dev
+- 🌱 I’m currently learning js, html and css
